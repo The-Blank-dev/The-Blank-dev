@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   
   
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  
 </p>
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=The-Blank-dev&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
