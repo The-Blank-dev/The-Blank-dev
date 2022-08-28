@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/ashwamegh.rathore.5">
   <img align="left" alt="Ashwamegh's Facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />
 </a>
-<h3 align="center">I am a sophmore student of IIT Kharagpur,majoring in Computeer Science & Engineering.</h3>
+<h3 align="center">I am a pre-final year student of IIT Kharagpur,majoring in Computeer Science & Engineering.</h3>
 <img align="right" alt="GIF" src="https://img.wattpad.com/e82e502854a42805710424d2e2d4165e0daa629e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4e7737496172346c644e39392d673d3d2d3537313438383234332e31353330613530366166376430326232323234323830323137382e676966?s=fit&w=720&h=720" width="500" height="320" />
 <p allign=center>Somethings about me</p>
 
